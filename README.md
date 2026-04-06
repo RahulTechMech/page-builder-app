@@ -95,74 +95,13 @@ src/
  ├── hooks/
  ├── utils/
  ├── App.jsx
+
 ```
 
----
+## 🚀 Live Demo
 
-## ▶️ Getting Started
+👉 https://your-project.vercel.app
 
-### 1. Clone the repository
+## 📂 GitHub Repository
 
-```bash
-git clone <your-repo-link>
-cd your-project-name
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the project
-
-```bash
-npm run dev
-```
-
----
-
-## 🌐 Deployment
-
-You can deploy this project using:
-
-- Vercel
-- Netlify
-
----
-
-## 📹 Demo (To be added)
-
-- Video demonstration of:
-  - Drag and drop functionality
-  - Block customization
-  - Persistence after refresh
-
----
-
-## 🚧 Future Improvements
-
-- Add more block types (Video, Button, Code, etc.)
-- Undo/Redo functionality
-- Dark mode
-- Export/Import page
-- Preview mode
-
----
-
-## 👨‍💻 Author
-
-**Rahul**
-
----
-
-## ⭐ Final Note
-
-This project demonstrates strong fundamentals of:
-
-- Component-based architecture
-- State management
-- Drag-and-drop interactions
-- Dynamic UI building
-
-It is a step towards building real-world tools like Notion-style editors and page builders.
+👉 https://github.com/your-username/project-name
